@@ -1,86 +1,80 @@
-<!-- Animated Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Omkar+👋;Data+Science+Enthusiast;Python+%26+Backend+Developer;Transforming+Data+into+Insights" alt="Typing SVG" />
+    <!-- Using a palette of calm pastel colors that alternate as it types -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=81A1C1;A3BE8C;B48EAD&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Omkar+👋;Data+Science+Professional;Transforming+Raw+Data+into+Insights" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-I am a Computer Science and Engineering undergraduate (Batch of 2028) with a strong focus on **Data Science** and backend architecture. I specialize in building end-to-end data pipelines—from cleaning complex datasets and engineering predictive features to deploying the final models using robust APIs.
+<h3 align="center">
+  I am a data professional currently pursuing my B.Tech in Computer Science and Engineering at IGIT Sarang (Batch of 2028). I specialize in data analysis, statistical modeling, and engineering robust, data-driven backend pipelines.
+</h3>
 
-### 🔭 Current Focus & Goals
-*   **The Big Project:** Building an **IPL Auction Recommendation System**. I am engineering custom "Trust Scores" by performing EDA and statistical modeling on a massive 2008–2025 player performance dataset, served via a Django backend.
-*   **Continuous Learning:** Deepening my knowledge in multivariate calculus and statistical modeling, while relying on core Python workflows to process data. 
-*   **Road to August 2026:** Finalizing my core Data Science portfolio projects. 
-*   **Opportunities:** Actively seeking Summer 2026 internship roles in Odisha (specifically looking at industrial/tech hubs like HAL Koraput, VSSUT, or Talcher) where I can apply my data and development skills.
+<br/>
 
----
-
-### 🏆 Top & Recently Completed Projects
-
-*Replace `YOUR-REPO-NAME` with the actual names of your repositories to display them dynamically.*
-
+<!-- Animated Divider -->
 <p align="center">
-  <!-- Top Project 1: The IPL Data Project -->
-  <a href="https://github.com/Omkar-1505/YOUR-IPL-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omkar-1505&repo=YOUR-IPL-REPO-NAME&theme=tokyonight&show_icons=true" alt="IPL Recommendation System" />
-  </a>
-  <!-- Top Project 2: Backend / Data Structures -->
-  <a href="https://github.com/Omkar-1505/YOUR-SECOND-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omkar-1505&repo=YOUR-SECOND-REPO-NAME&theme=tokyonight&show_icons=true" alt="Second Top Project" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
 </p>
 
----
+## 🏆 My Top Repositories
 
-### 🛠️ The Data & Dev Toolkit
+1. **IPL-Auction-Recommendation-System** 
+   <a href="https://github.com/Omkar-1505/IPL-Auction-Recommendation-System"><img align="right" src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View IPL Project" /></a>
+<br/><br/>
 
-**Data Engineering & Analysis**
-*   **Languages:** Python, C++ (for high-performance DSA)
-*   **Workflows:** Jupyter Notebooks, Data Cleaning, Feature Engineering, Statistical Modeling
+2. **[Your-Second-Repo-Name]** 
+   <a href="https://github.com/Omkar-1505/YOUR-SECOND-REPO"><img align="right" src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo 2" /></a>
+<br/><br/>
 
-**Backend & Deployment**
-*   **Frameworks:** Django, FastAPI
-*   **Frontend Integration:** Tailwind CSS, DaisyUI
+3. **[Your-Third-Repo-Name]** 
+   <a href="https://github.com/Omkar-1505/YOUR-THIRD-REPO"><img align="right" src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo 3" /></a>
+<br/><br/>
 
-**Tools & Environment**
-*   Git, GitHub Copilot, Standard Python Libraries 
-
----
-
-### 📊 GitHub Analytics
-
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-1505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omkar's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-1505&theme=tokyonight&hide_border=true" alt="Omkar's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-1505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
 </p>
 
----
+## 🛠️ The Data & Dev Toolkit
 
-### 📫 Connect With Me
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-If you want to discuss Python backend architecture, deep-dive into IPL player statistics, or collaborate on open-source data science projects, I'd love to chat!
+**Data Science Libraries:**  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+**Web Development:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-<!--
-**Omkar-1505/Omkar-1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Environments:**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-2b3137?style=for-the-badge&logo=github-copilot&logoColor=white)
 
-Here are some ideas to get you started:
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Analytics
+
+<!-- Dynamic Animated Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-1505&bg_color=1a1b27&color=81A1C1&line=81A1C1&point=ffffff&area=true&hide_border=true" alt="Omkar's Activity Graph" width="100%" />
+</p>
+
+<!-- Side-by-side Stats & Streak Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-1505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-1505&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
